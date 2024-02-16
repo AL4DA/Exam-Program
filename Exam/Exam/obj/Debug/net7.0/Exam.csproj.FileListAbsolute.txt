@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/Exam/Exam/bin/Debug/net7.0/Exam
+/Users/macbook/Desktop/Exam/Exam/bin/Debug/net7.0/Exam.deps.json
+/Users/macbook/Desktop/Exam/Exam/bin/Debug/net7.0/Exam.runtimeconfig.json
+/Users/macbook/Desktop/Exam/Exam/bin/Debug/net7.0/Exam.dll
+/Users/macbook/Desktop/Exam/Exam/bin/Debug/net7.0/Exam.pdb
+/Users/macbook/Desktop/Exam/Exam/obj/Debug/net7.0/Exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Exam/Exam/obj/Debug/net7.0/Exam.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Exam/Exam/obj/Debug/net7.0/Exam.AssemblyInfo.cs
+/Users/macbook/Desktop/Exam/Exam/obj/Debug/net7.0/Exam.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Exam/Exam/obj/Debug/net7.0/Exam.dll
+/Users/macbook/Desktop/Exam/Exam/obj/Debug/net7.0/refint/Exam.dll
+/Users/macbook/Desktop/Exam/Exam/obj/Debug/net7.0/Exam.pdb
+/Users/macbook/Desktop/Exam/Exam/obj/Debug/net7.0/Exam.genruntimeconfig.cache
+/Users/macbook/Desktop/Exam/Exam/obj/Debug/net7.0/ref/Exam.dll
